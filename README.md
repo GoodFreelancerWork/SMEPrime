@@ -1,1 +1,5 @@
 # SMEPrime
+
+Installation
+
+Run
